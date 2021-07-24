@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8467aa5d-e921-4cd8-b473-85e8b0d6244a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../$RECYCLE.BIN/S-1-5-21-2197279878-1077688441-1534169649-1001/$R0BCDQA.idea/angular-ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/Banking/Banking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/Design Patterns/Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/Hello/Hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/JavaAdv/JavaAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/JavaAdvCode/JavaAdvCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/PetClinic/PetClinic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/SoftwareTesting/SoftwareTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXerciii/UnitTesting/UnitTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/26-checkout-form-save-the-order-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/03-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/angular-ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-ecommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/.idea/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../altele/26-checkout-form-save-the-order-frontend/.idea/26-checkout-form-save-the-order-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/HOMEWORK/HOMEWORK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/jav/.idea/jav.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/out/production/exemple/.idea/jav.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/out/production/exemple/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/out/production/exemple/exemple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/out/production/exemple/var/.idea/var.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/out/production/exemple/var/production/var/.idea/var.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/src/exemple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/src/var/.idea/var.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple/src/var/production/var/.idea/var.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbc/src/main/java/example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdbcmavenout/jdbcmavenout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proiecte/.idea/proiecte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proiecte/myfavoriteshop/myfavoriteshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/IdeaLearningProject/.idea/IdeaLearningProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/IdeaLearningProject/IdeaLearningProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/EmailSenderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/config/FreeMarkerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/controllers/EmailController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/model/MailModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/service/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/java/example/emailSender/service/EmailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main/resources/templates/email.ftl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/test/java/example/EmailSenderApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1vRqXD05cCLOLoaKMCsg20S7351" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25294748" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (angular-ecommerce)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/angular-ecommerce/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/angular-ecommerce/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8467aa5d-e921-4cd8-b473-85e8b0d6244a" name="Default Changelist" comment="" />
+      <created>1626535287012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626535287012</updated>
+      <workItem from="1626535288534" duration="140000" />
+      <workItem from="1627124112411" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
